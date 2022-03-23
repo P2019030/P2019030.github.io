@@ -1,7 +1,6 @@
 title: Christos Vlassis
 subtitle: Software Developer
-description: > | 
-## IT DOESNT means to ignore newlines until "baseurl:" (put | for new line)
+description: > #  ignore newlines until "baseurl:" (put | for new line)
   Hello, my name is Christos Vlassis.I am studying at Department of Informatics of the Ionian University.I am intrested in software development 
   and web development for now,as I want to evolve in databases and/or AI.In software development my go to language is Java and in web 
   development I am comfortable with Javascript and have a basic knowledge in HTML & CSS. My goal is to be a full-stack developer.
