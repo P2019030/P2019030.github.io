@@ -3,7 +3,7 @@ subtitle: Software Developer
 description: > #  ignore newlines until "baseurl:" (put | for new line)
   Hello, my name is Christos Vlassis.I am studying at Department of Informatics of the Ionian University.I am intrested in software development 
   and web development for now,as I want to evolve in databases and/or AI.In software development my go to language is Java and in web 
-  development I am comfortable with Javascript and have a basic knowledge in HTML & CSS. My goal is to be a full-stack developer.
+  development I am comfortable with Javascript and havee a basic knowledge in HTML & CSS. My goal is to be a full-stack developer.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ urls:
       url : /contact
 
 
-# Edit Author details (For multi authors check _data/authors.yml)
+# Edit Author details (For multi authors check _data/authors.yml)a
 
 author_logo: myProfile.jpeg
 author: Chris Vlassis
